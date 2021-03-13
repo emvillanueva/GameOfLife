@@ -15,6 +15,10 @@ header {
 	
 }
 
+h1 {
+	text-shadow: 2px 2px rgb(0,200,0);
+}
+
 footer {
 	font-style: italic;
 	font-size: 90%;
